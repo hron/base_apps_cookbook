@@ -1,0 +1,6 @@
+maintainer       "2combinators OU"
+maintainer_email "aleksei.gusev@gmail.com"
+license          "Apache 2.0"
+description      "Installs base_apps"
+version          "0.1"
+supports         "ubuntu"
